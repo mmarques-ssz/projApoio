@@ -1,0 +1,7 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\testeImg\testeImg\bin\Debug\testeImg.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\testeImg\testeImg\bin\Debug\testeImg.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\testeImg\testeImg\obj\x86\Debug\testeImg.Form1.resources
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\testeImg\testeImg\obj\x86\Debug\testeImg.Properties.Resources.resources
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\testeImg\testeImg\obj\x86\Debug\testeImg.csproj.GenerateResource.Cache
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\testeImg\testeImg\obj\x86\Debug\testeImg.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\testeImg\testeImg\obj\x86\Debug\testeImg.pdb
